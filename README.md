@@ -15,4 +15,5 @@ The repository includes the following functions:
 * minVpnorm_adpt: reproduces examples from section 5.4; adaptive scheme
 * generate_lbracket, generate_biclamped, generate_ubracket: create the mesh for each example
 * mgcg_stress, mgcg_adj: multigrid-preconditioned CG for the state and adjoint equations, with early termination based on stress sensitivities
+* getstress2d: compute p-norm of von mises stresses at element centroids
 * prepcoarse, Vcycle, smthdmpjac: multigrid utilities
