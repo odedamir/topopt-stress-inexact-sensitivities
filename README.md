@@ -7,6 +7,8 @@ The code is freely available for research purposes, but the author does not guar
 If you are using this code for research, please cite the relevant publication:
 Amir, O. (2021) "Efficient stress-constrained topology optimization using inexact design sensitivities", IJNME.
 
+*   IMPORTANT NOTE! The codes require the MMA matlab implementation (mmasub.m and subsolv 
+
 The repository includes the following functions:
 
 * Run_minVpnorm: script for executing all optimization runs
