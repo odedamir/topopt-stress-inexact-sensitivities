@@ -7,7 +7,7 @@ The code is freely available for research purposes, but the author does not guar
 If you are using this code for research, please cite the relevant publication:
 Amir, O. (2021) "Efficient stress-constrained topology optimization using inexact design sensitivities", IJNME.
 
-*   IMPORTANT NOTE! The codes require the MMA matlab implementation (mmasub.m and subsolv 
+*   IMPORTANT NOTE! The code requires the MMA matlab implementation (mmasub.m and subsolv.m), as well as the function kktcheck.m that comes with the GCMMA code. These codes can be obtained by contacting Prof. Krister Svanberg (thanks to Nicolo Pollini for noticing this issue!)  
 
 The repository includes the following functions:
 
